@@ -3,4 +3,6 @@ console.log("TEST")
 console.log("im going to skip legs again")
 console.log"(im hitting chest again")
 
-console.log("\x1b[23m", "Hi")
+console.log("\x1b[35m", "Hi")
+
+console.log (x1b[om]
