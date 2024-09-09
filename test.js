@@ -14,6 +14,7 @@ console.log('\x1b[36m%s\x1b[0m', 'I am cyan');
 console.log ("\x1b[0m");
 console.log ("\x1b[35m");
 
-console.log("\x1b[36m"; "meow meow meow" )
+onsole.log('\x1b[35m%s\x1b[0m', 'Meow Meow Meow');
+
 
 
